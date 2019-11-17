@@ -31,6 +31,6 @@ const createCalendar = () => {
 }
 
 
-window.onload = createCalendar;
+window.onload = createCalendar();
 //calendarButton.addEventListener("click", createCalendar);
 
